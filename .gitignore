@@ -1,4 +1,6 @@
 datasets
 tests
+labelled_data
 *.pt
 *.pth
+__pycache__
